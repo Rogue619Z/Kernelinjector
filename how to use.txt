@@ -1,0 +1,4 @@
+cmd: sc create nigga123 binPath= "D:\スタッフ\Coding\ノーティカルスタッフ\cheats\r6\KernelInjector\Signed Driver\lansvcwdk.sys" type= kernel
+
+then: 
+sc start nigga123
